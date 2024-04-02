@@ -2,3 +2,4 @@ build/debug
 build/release
 doc/
 Makefile
+*.sublime-workspace
